@@ -61,7 +61,7 @@ Prepare train data and test data from the embeddings and feed into a simple soft
 For an image(may contain multiple faces) extract each face,get embeddings,get prediction from classifier network,make bounding box around face and write person name.
 
 
-## Sample Images of Face Recognised Images
+## 5. Sample Images of Face Recognised Images
 
 ![sush_1](https://user-images.githubusercontent.com/45651909/89097462-b62f6480-d3fc-11ea-971c-1deb9018b7eb.jpg)
 ![modi_2](https://user-images.githubusercontent.com/45651909/89097466-ba5b8200-d3fc-11ea-8823-5c9081e8f7e5.jpg)
