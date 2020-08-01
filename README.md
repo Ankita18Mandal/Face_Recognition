@@ -67,3 +67,7 @@ For an image(may contain multiple faces) extract each face,get embeddings,get pr
 ![modi_2](https://user-images.githubusercontent.com/45651909/89097466-ba5b8200-d3fc-11ea-8823-5c9081e8f7e5.jpg)
 ![deep_1](https://user-images.githubusercontent.com/45651909/89097470-bc254580-d3fc-11ea-815d-b512c2b2a3f8.jpg)
 ![ayushmaan_2](https://user-images.githubusercontent.com/45651909/89097472-bdef0900-d3fc-11ea-905d-799b0a599cbb.jpg)
+![deepika](https://user-images.githubusercontent.com/45651909/89098748-ddd7fa00-d407-11ea-962e-701b9c979e05.jpg)
+![DwnavjPUYAAqEh2](https://user-images.githubusercontent.com/45651909/89098751-e2041780-d407-11ea-8c3b-64b0edcd2df7.jpg)
+![when_sushant_singh_rajput_revealed_similarities_between_him_kriti_sanon_to_be_the_reason_of_their_friendship](https://user-images.githubusercontent.com/45651909/89098753-e5979e80-d407-11ea-90f8-610d7b47b6d0.jpeg)
+
