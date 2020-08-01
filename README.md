@@ -8,9 +8,9 @@ Collected a set of 60 images of famous celebrities of India (namely Deepika Padu
 Collected 18 images of the same celebrities for the validation set.
 
 ## Detection of Faces
-'''
+```
 wkdjjk
-'''
+```
 
 ## Sample Images of Face Recognised Images
 
