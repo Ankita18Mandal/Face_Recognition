@@ -4,12 +4,10 @@ Face Detection and Recognition on some famous personalities
 ## 1. Dataset acquisition
 - Train Data
 
-
   Collected a set of 60 images of famous celebrities of India (namely Deepika Padukone, Ayushmaan Khurrana, Kriti Sannon, Sushant Singh Rajput, Narendra Modi, Carryminati) for the training set.
 -  Validation Data 
 
-
-  Collected 18 images of the same celebrities for the validation set.
+   Collected 18 images of the same celebrities for the validation set.
 
 ## 2. Detection of Faces
 Using ```dlib cnn face detector``` to find the faces in image, crop and store them in separate folders sorted according to individual person.
