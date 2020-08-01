@@ -49,7 +49,7 @@ Directory structure :
 |mmod_human_face_detector.dat
 ```
 ## 3. Download the model weights
-As vgg-face weights are not available as ```.h5``` file to download,from this [article][https://sefiks.com/2018/08/06/deep-face-recognition-with-keras/]
+As vgg-face weights are not available as ```.h5``` file to download,from this [article](https://sefiks.com/2018/08/06/deep-face-recognition-with-keras/)
 Download Vgg-face weights from google drive with
 ```! gdown https://drive.google.com/uc?id=1CPSeum3HpopfomUEK1gybeuIVoeJT_Eo```
 Define vgg-face model architecture in tensorflow-keras and load weights.
