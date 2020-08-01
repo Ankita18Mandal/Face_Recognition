@@ -71,3 +71,4 @@ For an image(may contain multiple faces) extract each face,get embeddings,get pr
 ![DwnavjPUYAAqEh2](https://user-images.githubusercontent.com/45651909/89098751-e2041780-d407-11ea-8c3b-64b0edcd2df7.jpg)
 ![when_sushant_singh_rajput_revealed_similarities_between_him_kriti_sanon_to_be_the_reason_of_their_friendship](https://user-images.githubusercontent.com/45651909/89098753-e5979e80-d407-11ea-90f8-610d7b47b6d0.jpeg)
 
+Good to go with your model. ✔✌
