@@ -1,5 +1,16 @@
-# Face_Recognition
+# Description - Face_Recognition
 Face Detection and Recognition on some famous personalities
+
+## Dataset acquisition
+- Train Data
+Collected a set of 60 images of famous celebrities of India (namely Deepika Padukone, Ayushmaan Khurrana, Kriti Sannon, Sushant Singh Rajput, Narendra Modi, Carryminati) for the training set.
+-  Validation Data 
+Collected 18 images of the same celebrities for the validation set.
+
+## Detection of Faces
+'''
+wkdjjk
+'''
 
 ## Sample Images of Face Recognised Images
 
