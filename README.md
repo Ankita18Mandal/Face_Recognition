@@ -8,8 +8,11 @@ Collected a set of 60 images of famous celebrities of India (namely Deepika Padu
 Collected 18 images of the same celebrities for the validation set.
 
 ## Detection of Faces
+Using ```dlib cnn face detector``` to find the faces in image, crop and store them in separate folders sorted according to individual person.
+Download 'mmod_human_face_detector' to use as 'dlib cnn face detector'
 ```
-wkdjjk
+! wget http://dlib.net/files/mmod_human_face_detector.dat.bz2 
+!bzip2 -dk mmod_human_face_detector.dat.bz2
 ```
 
 ## Sample Images of Face Recognised Images
